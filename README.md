@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Light Blue Gradient Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=Animesh%20Maiti&fontSize=70&fontAlignY=35&desc=Exploring%20AI%20and%20ML%20%7C%20Problem%20Solver%20%7C%20B.Tech%20Student&descAlignY=55&descSize=20" alt="Animesh Maiti Banner">
+  <!-- Time-Based Gradient Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Animesh%20Maiti&fontSize=70&fontAlignY=35&desc=Exploring%20AI%20and%20ML%20%7C%20Problem%20Solver%20%7C%20B.Tech%20Student&descAlignY=55&descSize=20" alt="Animesh Maiti Banner">
 
   <h3><b>Building solutions and exploring the frontiers of new technologies 🚀✨</b></h3>
 
