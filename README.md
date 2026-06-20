@@ -52,8 +52,8 @@ I'm Animesh, a Computer Science student who enjoys building intelligent software
       </code></pre>
     </td>
     <td width="45%" align="center" valign="middle">
-      <!-- High-quality Developer Illustration matching ss2_2.png -->
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c32d4750f2db/1531238411082-S6VAKM79RUTD86D1H49D/tech-support-icon-animation.gif" width="100%" alt="Developer Animation">
+      <!-- Coder image placed perfectly next to your terminal profile -->
+      <img src="coder3.png" width="100%" alt="Developer Illustration">
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@ I'm Animesh, a Computer Science student who enjoys building intelligent software
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 
-  <h3>Languages</h3>
+  <h3>Mini Languages</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
