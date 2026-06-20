@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Perfect, unbreakable banner loaded directly from your repository -->
-  <img src="banner2.png" alt="Animesh Maiti Banner" width="90%">
+  <img src="banner.png" alt="Animesh Maiti Banner" width="90%">
 
   <br><br>
   <h3><b>Building solutions and exploring the frontiers of new technologies 🚀✨</b></h3>
