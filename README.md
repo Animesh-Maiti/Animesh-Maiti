@@ -60,32 +60,50 @@ I'm Animesh, a Computer Science student who enjoys building intelligent software
 
 ---
 
-## 🛠️ Tech Arsenal & Toolkit
+## 🏅 Coding Profiles
 
 <div align="center">
-  <h3>Machine Learning & Data Science</h3>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Hugging Face">
   <br>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <a href="https://leetcode.com/u/animesh-maiti/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+  <br>
+</div>
 
-  <h3>Mini Languages</h3>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+---
 
-  <h3>Tools, Databases & Environments</h3>
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <br>
+  <h3>Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css" alt="Languages" />
+  </p>
+
+  <h3>AI, ML & Data Science</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn" alt="ML Frameworks">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  </p>
+
+  <h3>Frameworks & Libraries</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=fastapi,flask" alt="Frameworks and Libraries" />
+  </p>
+
+  <h3>Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  </p>
+
+  <h3>Tools & Platforms</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,git,github,docker" alt="Tools and Platforms" />
+  </p>
+  <br>
 </div>
 
 ---
