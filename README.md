@@ -1,8 +1,10 @@
 <div align="center">
-  <!-- Time-Based Gradient Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Animesh%20Maiti&fontSize=70&fontAlignY=35&desc=Exploring%20AI%20and%20ML%20%7C%20Problem%20Solver%20%7C%20B.Tech%20Student&descAlignY=55&descSize=20" alt="Animesh Maiti Banner">
+  <!-- Perfect, unbreakable banner loaded directly from your repository -->
+  <img src="banner.png" alt="Animesh Maiti Banner" width="100%">
 
+  <br><br>
   <h3><b>Building solutions and exploring the frontiers of new technologies 🚀✨</b></h3>
+  <br>
 
   <!-- Social Badges & Profiles -->
   <a href="https://linkedin.com/in/animesh-maiti-2bb186320"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
