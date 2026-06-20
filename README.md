@@ -16,25 +16,44 @@
 
 <br>
 
-## 👨‍💻 Get to Know Me
+## 🤷‍♂️ About Me
+
+### 👋 Hey there!
+
+I'm Animesh, a Computer Science student who enjoys building intelligent software, optimizing data structures, and exploring machine learning. I believe the best way to master new technologies is by diving headfirst into real-world applications and coding projects.
 
 <table width="100%" style="border: none;">
   <tr>
-    <td width="65%">
-      <p><b>👋 Hey there! I'm Animesh.</b></p>
-      <p>I am a software developer and AI enthusiast focused on solving complex problems and building intelligent, data-driven applications.</p>
-      <br>
-      <ul>
-        <li>🎓 <span style="color: #7aa2f7;"><b>Education:</b></span> B.Tech in Computer Science</li>
-        <li>🔬 <span style="color: #00d2ff;"><b>Interests:</b></span> Machine Learning, NLP, and Software Architecture</li>
-        <li>💻 <span style="color: #3a7bd5;"><b>Currently Building:</b></span> An NER model via BioBERT for medical data extraction</li>
-        <li>⚙️ <span style="color: #9d7cd8;"><b>Focus:</b></span> Optimizing Data Structures & Algorithms (C++/Java)</li>
-        <li>🌱 <span style="color: #bb9af7;"><b>Philosophy:</b></span> Learn by building. Continuous improvement.</li>
-      </ul>
+    <td width="55%" valign="top">
+      <pre><code>
+┌──────────────────────────────────────────┐
+│            DEVELOPER PROFILE             │
+└──────────────────────────────────────────┘
+
+ name      : Animesh Maiti
+ location  : Kolkata, India
+ role      : AI/ML Learner & Problem Solver
+ education : B.Tech – Computer Science (AI-ML)
+
+ focus:
+  ▸ 🤖 Machine Learning Basics
+  ▸ 🧠 Natural Language Processing
+  ▸ ⚔️ Data Structures & Algorithms
+  ▸ 🛠️ Software Development
+
+ currently:
+  ▸ Building an NER model via BioBERT
+  ▸ Exploring deep learning architectures
+  ▸ Mastering problem-solving skills
+  ▸ Creating an impactful portfolio
+
+ motto : "Transforming raw data into 
+          intelligent connections."
+      </code></pre>
     </td>
-    <td width="35%" align="center">
-      <!-- AI/ML Themed Illustration -->
-      <img src="https://cdn.dribbble.com/users/2156071/screenshots/14441551/media/bf77501b816ba8ec2792cdd7b2fc13dd.gif" width="100%" alt="AI Developer">
+    <td width="45%" align="center" valign="middle">
+      <!-- High-quality Developer Illustration matching ss2_2.png -->
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c32d4750f2db/1531238411082-S6VAKM79RUTD86D1H49D/tech-support-icon-animation.gif" width="100%" alt="Developer Animation">
     </td>
   </tr>
 </table>
