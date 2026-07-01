@@ -16,7 +16,7 @@
 
 <br>
 
-## 🤷‍♂️ About Me
+## About Me
 
 ### 👋 Hey there!
 
@@ -60,7 +60,7 @@ I'm Animesh, a Computer Science student who enjoys building intelligent software
 
 ---
 
-## 🏅 Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
   <br>
